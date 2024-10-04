@@ -2,3 +2,8 @@ Pandas==2.0.2
 Seaborn==0.13.2
 Matplotlib==3.9.0
 Streamlit
+
+Pandas == 2.2.3
+Seaborn == 0.13.2  
+Matplotlib == 3.9.0
+Streamlit == 1.22.0
